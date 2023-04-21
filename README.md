@@ -61,9 +61,13 @@ Dan jika berhasil login (data pasien ditemukan) maka program akan menampilkan pi
 
 	Pada menu ini, user dapat melihat berapa jumlah saldo yang mereka miliki yang kemudian nantinya akan digunakan untuk membayar akses rumah sakit seperti kamar, biaya berobat, biaya obat, dll.
 
+![lihat saldo](https://user-images.githubusercontent.com/127528115/233644794-33230a53-05c0-451f-b3fc-7666bc903ef6.PNG)
+
 5. Tambah saldo
 
 	Pada menu ini, user dapat menambahkan saldo mereka miliki yang kemudian nantinya akan digunakan untuk membayar akses rumah sakit seperti kamar, biaya berobat, biaya obat, dll.
+
+![tambah saldo](https://user-images.githubusercontent.com/127528115/233644854-3883c2fa-6ccd-42d0-bc58-2e43f354cff1.PNG)
 
 
 (3). Login Admin
